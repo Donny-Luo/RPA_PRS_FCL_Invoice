@@ -1,0 +1,41 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mainOutput_excel&Sequence_1",
+        "excelCount2&Sequence_1",
+        "excelCount1&Sequence_1",
+        "DataTable_Queue_Table&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "cny000&Sequence_1",
+        "hkd000&Sequence_1",
+        "blank_bill&Sequence_1",
+        "Current_Time&Sequence_1",
+        "RPA_Result&Sequence_1",
+        "ExtractDataTable2&Sequence_1",
+        "folderPath&Sequence_1",
+        "invoiceAmount&Sequence_1",
+        "countLastRow&Sequence_1",
+        "TODAY&Sequence_2",
+        "TODAY_2&Sequence_2",
+        "count&Sequence_28",
+        "mainOutput&Sequence_59",
+        "count2&Sequence_59",
+        "Record&Sequence_31"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
